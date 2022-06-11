@@ -1,4 +1,9 @@
-### Hi there 👋
+Olá pessoa ! Obrigado por visitar meu GitHUB 😄
+
+Atualmente estou estudando Front-End e irei postar alguns códigos aqui, que estou trabalhando com o passar do tempo.
+
+
+
 
 <!--
 **JordanAyron/JordanAyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
