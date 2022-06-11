@@ -1,12 +1,14 @@
 Olá pessoal ! Obrigado por visitar meu GitHUB 😄
 
-Atualmente estou estudando Front-End e irei postar alguns códigos aqui, que estou trabalhando com o passar do tempo.
+- 🔭 Atualmente estou desenvolvendo minhas habilidades em desenvolvimento Front-end
+- 🌱 Aprendendo CSS, HTML e JavaScript
 
+Estarei publicando meus trabalhos aqui, para eventualmente disponibiliza-los em um portfólio apresentavel.
 
 <div align="center">
   <a href="https://github.com/JordanAyron">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordanAyron&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanAyron&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordanAyron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanAyron&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   
@@ -17,11 +19,6 @@ Atualmente estou estudando Front-End e irei postar alguns códigos aqui, que est
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
-
-
-<br>
-<img class='goodjob' src='https://c.tenor.com/A7vPsKccr7sAAAAC/konata-good-job.gif' width="100" height="100">
 
 
 
