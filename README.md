@@ -3,7 +3,7 @@ Olá pessoal ! Obrigado por visitar meu GitHUB 😄
 Atualmente estou estudando Front-End e irei postar alguns códigos aqui, que estou trabalhando com o passar do tempo.
 
 
-
+<img class='goodjob' src='https://c.tenor.com/A7vPsKccr7sAAAAC/konata-good-job.gif'>
 
 <!--
 **JordanAyron/JordanAyron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
