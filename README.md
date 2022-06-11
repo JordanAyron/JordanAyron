@@ -1,4 +1,4 @@
-Olá pessoa ! Obrigado por visitar meu GitHUB 😄
+Olá pessoal ! Obrigado por visitar meu GitHUB 😄
 
 Atualmente estou estudando Front-End e irei postar alguns códigos aqui, que estou trabalhando com o passar do tempo.
 
