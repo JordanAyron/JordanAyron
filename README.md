@@ -5,7 +5,7 @@ Olá pessoal ! Obrigado por visitar meu GitHUB 😄
 
 Estarei publicando meus trabalhos aqui, para eventualmente disponibiliza-los em um portfólio apresentavel.
 
-<div align="center">
+<div style="display: flex" align="center">
   <a href="https://github.com/JordanAyron">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JordanAyron&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanAyron&layout=compact&langs_count=7&theme=dark"/>
